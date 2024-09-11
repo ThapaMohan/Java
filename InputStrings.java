@@ -1,0 +1,1 @@
+//WAP to read an input string from the user and write the vowels of that strings in vowel.txt and consonent in consonent.txt.
